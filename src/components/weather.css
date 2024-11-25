@@ -1,0 +1,17 @@
+.weather-container{
+    max-width: 500px;
+    margin: 20px auto;
+    padding : 20px ;
+    background-color: rgb(169, 255, 235);
+    border-radius: 10px;
+    box-shadow: 0 0 10px  black;
+    text-align: center;
+}
+
+button{
+    border: 3px solid black;
+    border-radius: 10px;
+}
+input{
+    border: 3px solid black;
+}
